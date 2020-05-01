@@ -1,0 +1,12 @@
+*.b#*
+*.dri
+*.epf
+*.G*
+*.gpi
+*.job
+*.pro
+*.s#*
+*.T*
+*.tar.gz
+*.xln
+*.zip
